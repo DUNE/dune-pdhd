@@ -1,4 +1,4 @@
-# dune-pdhd
+# dune-pd-hd
 ProtoDUNE-HD code for DUNE's Phlex-based software stack
 
 ## Copyright and Licensing
